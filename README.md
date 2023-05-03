@@ -1,6 +1,6 @@
 # Julia codes for *AAA rational approximation on a continuum*
 
-These codes go with the paper *AAA rational approximation on a continuum* by Driscoll, Trefethen, and Nakatsukasa, submitted to SISC in 2023.
+These codes go with the paper *AAA rational approximation on a continuum* by Driscoll, Nakatsukasa, and Trefethen, submitted to SISC in 2023.
 
 ## Usage
 
